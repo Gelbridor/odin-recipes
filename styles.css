@@ -1,0 +1,10 @@
+* {
+ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;   
+}
+
+div {
+    width: 300px;
+    border: 15px solid purple;
+    padding: 50px;
+    margin: 20px;
+  }
